@@ -201,6 +201,9 @@ const remainingBudget = eventBudget - totalExpenses;
 console.log("Remaining Budget is", remainingBudget);
 
 //Most Expensive Expense
+//for(expense of expenses){
+  //const mostExpensive=expenses.filter(expense=>expense)
+//
 
 //EXPENSES ABOVE 200,000
 
